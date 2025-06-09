@@ -1,0 +1,15 @@
+com/bookstore/config/SecurityConfig.class
+com/bookstore/config/LoggingAspect.class
+com/bookstore/service/JwtService.class
+com/bookstore/model/User.class
+com/bookstore/model/User$UserBuilder.class
+com/bookstore/dto/RegisterRequest.class
+com/bookstore/config/OpenApiConfig.class
+com/bookstore/controller/AuthController.class
+com/bookstore/dto/RegisterRequest$RegisterRequestBuilder.class
+com/bookstore/security/JwtAuthenticationFilter.class
+com/bookstore/model/Role.class
+com/bookstore/repository/UserRepository.class
+com/bookstore/security/JwtService.class
+com/bookstore/api/BookstoreApplication.class
+com/bookstore/service/AuthenticationService.class

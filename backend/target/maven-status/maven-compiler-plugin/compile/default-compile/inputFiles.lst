@@ -1,0 +1,13 @@
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/dto/RegisterRequest.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/repository/UserRepository.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/model/Role.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/controller/AuthController.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/config/OpenApiConfig.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/config/LoggingAspect.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/security/JwtService.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/security/JwtAuthenticationFilter.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/model/User.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/api/BookstoreApplication.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/service/JwtService.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/config/SecurityConfig.java
+/Users/tejureddy/workspace/OnlineBookStore/backend/src/main/java/com/bookstore/service/AuthenticationService.java
